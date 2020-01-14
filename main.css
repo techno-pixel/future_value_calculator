@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+#box {
+    border: solid 2px blue;
+    width: 20%;
+    margin-top: 200px;
+    padding: 10px;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+#box input {
+    width: 50%;
+    float:right;
+}
